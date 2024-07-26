@@ -23,15 +23,6 @@ The Sales Forecast Dashboard offers a 30-day sales forecast, helping stakeholder
 1. **Dashboard Analysis:** Use the provided visualizations to analyze historical sales and profit data.
 2. **Forecasting:** Utilize the sales forecast to plan future strategies and operations.
 
-## Screenshots
-
-### Hypermarket Sales Dashboard
-![Hypermarket Sales Dashboard](Dashboard.png)
-
-### Hypermarket Sales Forecast for Next 30 Days
-![Hypermarket Sales Forecast](Forecast.png)
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
